@@ -8,7 +8,7 @@ dibujarLinea("pink",390,390,390,10);
 
 dibujarLinea("green ",210,10,10,200);
 dibujarLinea("blue",10,200,390,200);
-dibujarLinea("yellow",390,200,210,10);
+dibujarLinea("yellow",210,10,390,200);
 
 function dibujarLinea(color, xinicial, yinicial, xfinal, yfinal)
 {
