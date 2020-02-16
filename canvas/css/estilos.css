@@ -1,0 +1,11 @@
+#cabecera
+{
+    background: rgb(103, 51, 170);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+/*$ git commit dibujo.html -m "agregando la cabecera parte 1"
+*/
